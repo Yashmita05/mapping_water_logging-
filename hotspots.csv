@@ -1,0 +1,51 @@
+id,location,area,latitude,longitude,hotspot_type,recurrence_level,source
+1,Minto Bridge Underpass,Central Delhi,28.6214,77.2311,Underpass,High,Indian Express / TOI
+2,Zakhira Flyover,West Delhi,28.6900,77.1885,Flyover,High,Indian Express / TOI
+3,Pul Prahladpur Underpass,South East Delhi,28.5095,77.2567,Underpass,High,TOI
+4,Dhaula Kuan Flyover,South West Delhi,28.5921,77.1696,Flyover,High,Traffic Police Reports
+5,ITO Ring Road Crossing,Central Delhi,28.6297,77.2436,Road Intersection,High,Indian Express
+6,Mahipalpur Underpass,South West Delhi,28.5445,77.1231,Underpass,High,Traffic Advisories
+7,Azadpur Mandi Area,North Delhi,28.7066,77.1820,Market Area,Medium,Local / News Reports
+8,Patel Nagar Underpass,West Delhi,28.6573,77.1699,Underpass,Medium,TOI
+9,Lajpat Nagar Central Market,South Delhi,28.5672,77.2433,Commercial Area,Medium,Local Reports
+10,Seelampur Road,North East Delhi,28.6736,77.2667,Road Stretch,Medium,Traffic Reports
+11,Mayur Vihar Phase 1,East Delhi,28.6043,77.2897,Residential Area,Medium,Indian Express
+12,GT Karnal Road Jahangirpuri,North Delhi,28.7324,77.1659,Highway Stretch,High,Traffic Alerts
+13,Ring Road Kashmere Gate,North Delhi,28.6675,77.2282,Road Intersection,High,Indian Express
+14,Okhla Underpass,South Delhi,28.5366,77.2761,Underpass,High,TOI
+15,Rohini Sector 18 Road,North West Delhi,28.7405,77.1350,Road Stretch,Low,Local Reports
+16,Sarita Vihar Underpass,South East Delhi,28.5270,77.2890,Underpass,High,Indian Express
+17,Loni Road Crossing,East Delhi,28.6955,77.2800,Road Intersection,High,TOI
+18,Shadipur Depot Area,West Delhi,28.6519,77.1585,Industrial Area,Medium,Local Reports
+19,Moti Bagh Ring Road,South Delhi,28.5774,77.1840,Road Stretch,Medium,Traffic Advisories
+20,Karol Bagh Faiz Road,Central Delhi,28.6508,77.1905,Road Stretch,Medium,Local Reports
+21,Ashok Vihar Phase 1,North West Delhi,28.6896,77.1691,Residential Area,Medium,Resident Complaints
+22,Timarpur Area,North Delhi,28.7069,77.2230,Residential Area,Medium,Local Reports
+23,Kingsway Camp,North Delhi,28.6890,77.2100,Road Intersection,Medium,Resident Complaints
+24,Chandni Chowk Area,Central Delhi,28.6562,77.2300,Market Area,Medium,Local Reports
+25,ISBT Kashmere Gate,North Delhi,28.6670,77.2285,Transport Hub,High,Traffic Advisories
+26,Tughlaqabad Fort Road,South Delhi,28.5115,77.2600,Road Stretch,Medium,Local Reports
+27,Chattarpur Main Road,South Delhi,28.4936,77.1749,Road Stretch,Medium,Resident Complaints
+28,Badarpur Border Road,South East Delhi,28.4966,77.3032,Highway Stretch,High,Traffic Alerts
+29,Preet Vihar Vikas Marg,East Delhi,28.6416,77.2976,Road Stretch,Medium,Local Reports
+30,Anand Vihar ISBT Area,East Delhi,28.6469,77.3155,Transport Hub,High,Traffic Police
+31,Mukundpur Chowk,North Delhi,28.7294,77.1740,Road Intersection,High,Traffic Advisories
+32,Burari Sant Nagar,North Delhi,28.7451,77.2035,Residential Area,Medium,Local Reports
+33,Shastri Park Metro Area,North East Delhi,28.6765,77.2580,Transit Area,Medium,Local Reports
+34,Yamuna Bank Metro Area,East Delhi,28.6236,77.2750,Transit Area,Medium,Indian Express
+35,Rajouri Garden Metro Underpass,West Delhi,28.6496,77.1204,Underpass,High,Traffic Advisories
+36,Subhash Nagar Crossing,West Delhi,28.6406,77.1049,Road Intersection,Medium,Local Reports
+37,Peeragarhi Chowk,West Delhi,28.6782,77.0928,Road Intersection,High,Traffic Police
+38,Naraina Industrial Area,South West Delhi,28.6180,77.1380,Industrial Area,Medium,Local Reports
+39,Dwarka Sector 7 Road,South West Delhi,28.5860,77.0710,Road Stretch,Medium,Resident Complaints
+40,Dwarka Sector 21 Underpass,South West Delhi,28.5512,77.0580,Underpass,High,Traffic Advisories
+41,Mehrauli-Gurgaon Road,South Delhi,28.4793,77.1018,Road Stretch,Medium,Local Reports
+42,Andrews Ganj Crossing,South Delhi,28.5624,77.2315,Road Intersection,Medium,Local Reports
+43,AIIMS Flyover Area,South Delhi,28.5678,77.2080,Flyover,Medium,Traffic Reports
+44,Vasant Kunj Fortis Road,South West Delhi,28.5260,77.1560,Road Stretch,Medium,Resident Complaints
+45,Narela Industrial Area,North Delhi,28.8525,77.0910,Industrial Area,Low,Local Reports
+46,Bawana Road Crossing,North Delhi,28.8056,77.0439,Road Intersection,Medium,Traffic Advisories
+47,Najafgarh Drain Road,South West Delhi,28.6120,76.9845,Road Stretch,High,Indian Express
+48,Uttam Nagar Underpass,West Delhi,28.6215,77.0550,Underpass,High,Traffic Police
+49,Janakpuri District Centre,West Delhi,28.6290,77.0915,Commercial Area,Medium,Local Reports
+50,Tilak Nagar Flyover Area,West Delhi,28.6395,77.0948,Flyover,Medium,Traffic Reports

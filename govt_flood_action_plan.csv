@@ -1,0 +1,51 @@
+location,predicted_flood_risk,priority_score,recommended_action
+Minto Bridge Underpass,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Zakhira Flyover,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Pul Prahladpur Underpass,Medium,60,Preventive drain inspection and cleaning within 7 days
+Dhaula Kuan Flyover,Medium,60,Preventive drain inspection and cleaning within 7 days
+ITO Ring Road Crossing,Low,30,Routine monitoring; no immediate action required
+Mahipalpur Underpass,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Azadpur Mandi Area,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Patel Nagar Underpass,Medium,60,Preventive drain inspection and cleaning within 7 days
+Lajpat Nagar Central Market,Medium,60,Preventive drain inspection and cleaning within 7 days
+Seelampur Road,Low,30,Routine monitoring; no immediate action required
+Mayur Vihar Phase 1,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+GT Karnal Road Jahangirpuri,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Ring Road Kashmere Gate,Medium,60,Preventive drain inspection and cleaning within 7 days
+Okhla Underpass,Medium,60,Preventive drain inspection and cleaning within 7 days
+Rohini Sector 18 Road,Low,30,Routine monitoring; no immediate action required
+Sarita Vihar Underpass,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Loni Road Crossing,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Shadipur Depot Area,Medium,60,Preventive drain inspection and cleaning within 7 days
+Moti Bagh Ring Road,Medium,60,Preventive drain inspection and cleaning within 7 days
+Karol Bagh Faiz Road,Low,30,Routine monitoring; no immediate action required
+Ashok Vihar Phase 1,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Timarpur Area,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Kingsway Camp,Medium,60,Preventive drain inspection and cleaning within 7 days
+Chandni Chowk Area,Medium,60,Preventive drain inspection and cleaning within 7 days
+ISBT Kashmere Gate,Low,30,Routine monitoring; no immediate action required
+Tughlaqabad Fort Road,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Chattarpur Main Road,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Badarpur Border Road,Medium,60,Preventive drain inspection and cleaning within 7 days
+Preet Vihar Vikas Marg,Medium,60,Preventive drain inspection and cleaning within 7 days
+Anand Vihar ISBT Area,Low,30,Routine monitoring; no immediate action required
+Mukundpur Chowk,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Burari Sant Nagar,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Shastri Park Metro Area,Medium,60,Preventive drain inspection and cleaning within 7 days
+Yamuna Bank Metro Area,Medium,60,Preventive drain inspection and cleaning within 7 days
+Rajouri Garden Metro Underpass,Low,30,Routine monitoring; no immediate action required
+Subhash Nagar Crossing,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Peeragarhi Chowk,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Naraina Industrial Area,Medium,60,Preventive drain inspection and cleaning within 7 days
+Dwarka Sector 7 Road,Medium,60,Preventive drain inspection and cleaning within 7 days
+Dwarka Sector 21 Underpass,Low,30,Routine monitoring; no immediate action required
+Mehrauli-Gurgaon Road,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Andrews Ganj Crossing,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+AIIMS Flyover Area,Medium,60,Preventive drain inspection and cleaning within 7 days
+Vasant Kunj Fortis Road,Medium,60,Preventive drain inspection and cleaning within 7 days
+Narela Industrial Area,Low,30,Routine monitoring; no immediate action required
+Bawana Road Crossing,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Najafgarh Drain Road,High,90,"Immediate drain desilting, deploy pumps, emergency response team on standby"
+Uttam Nagar Underpass,Medium,60,Preventive drain inspection and cleaning within 7 days
+Janakpuri District Centre,Medium,60,Preventive drain inspection and cleaning within 7 days
+Tilak Nagar Flyover Area,Low,30,Routine monitoring; no immediate action required

@@ -1,0 +1,51 @@
+location,dominant_basin,approx_drain_length_m,estimated_manhole_count,dominant_drain_type,drainage_quality,sewage_mixing_risk,flooding_frequency,main_issues
+Minto Bridge Underpass,Najafgarh Basin,1200,24000,Combined,Poor,Very High,High,Flat terrain and siltation
+Zakhira Flyover,Barapullah Basin,900,18000,Combined,Moderate,High,High,Encroachment on drains
+Pul Prahladpur Underpass,Central Delhi Basin,450,9000,Stormwater,Poor,High,Medium,Old undersized drains
+Dhaula Kuan Flyover,Trans-Yamuna Basin,600,13000,Storm+Sewer mix,Moderate,Medium,Medium,Backflow during heavy rain
+ITO Ring Road Crossing,Shahdara Basin,300,5000,Stormwater,Relatively Good,Low,Low,Local clogging and debris
+Mahipalpur Underpass,Najafgarh Basin,1200,24000,Combined,Poor,Very High,High,Flat terrain and siltation
+Azadpur Mandi Area,Barapullah Basin,900,18000,Combined,Moderate,High,High,Encroachment on drains
+Patel Nagar Underpass,Central Delhi Basin,450,9000,Stormwater,Poor,High,Medium,Old undersized drains
+Lajpat Nagar Central Market,Trans-Yamuna Basin,600,13000,Storm+Sewer mix,Moderate,Medium,Medium,Backflow during heavy rain
+Seelampur Road,Shahdara Basin,300,5000,Stormwater,Relatively Good,Low,Low,Local clogging and debris
+Mayur Vihar Phase 1,Najafgarh Basin,1200,24000,Combined,Poor,Very High,High,Flat terrain and siltation
+GT Karnal Road Jahangirpuri,Barapullah Basin,900,18000,Combined,Moderate,High,High,Encroachment on drains
+Ring Road Kashmere Gate,Central Delhi Basin,450,9000,Stormwater,Poor,High,Medium,Old undersized drains
+Okhla Underpass,Trans-Yamuna Basin,600,13000,Storm+Sewer mix,Moderate,Medium,Medium,Backflow during heavy rain
+Rohini Sector 18 Road,Shahdara Basin,300,5000,Stormwater,Relatively Good,Low,Low,Local clogging and debris
+Sarita Vihar Underpass,Najafgarh Basin,1200,24000,Combined,Poor,Very High,High,Flat terrain and siltation
+Loni Road Crossing,Barapullah Basin,900,18000,Combined,Moderate,High,High,Encroachment on drains
+Shadipur Depot Area,Central Delhi Basin,450,9000,Stormwater,Poor,High,Medium,Old undersized drains
+Moti Bagh Ring Road,Trans-Yamuna Basin,600,13000,Storm+Sewer mix,Moderate,Medium,Medium,Backflow during heavy rain
+Karol Bagh Faiz Road,Shahdara Basin,300,5000,Stormwater,Relatively Good,Low,Low,Local clogging and debris
+Ashok Vihar Phase 1,Najafgarh Basin,1200,24000,Combined,Poor,Very High,High,Flat terrain and siltation
+Timarpur Area,Barapullah Basin,900,18000,Combined,Moderate,High,High,Encroachment on drains
+Kingsway Camp,Central Delhi Basin,450,9000,Stormwater,Poor,High,Medium,Old undersized drains
+Chandni Chowk Area,Trans-Yamuna Basin,600,13000,Storm+Sewer mix,Moderate,Medium,Medium,Backflow during heavy rain
+ISBT Kashmere Gate,Shahdara Basin,300,5000,Stormwater,Relatively Good,Low,Low,Local clogging and debris
+Tughlaqabad Fort Road,Najafgarh Basin,1200,24000,Combined,Poor,Very High,High,Flat terrain and siltation
+Chattarpur Main Road,Barapullah Basin,900,18000,Combined,Moderate,High,High,Encroachment on drains
+Badarpur Border Road,Central Delhi Basin,450,9000,Stormwater,Poor,High,Medium,Old undersized drains
+Preet Vihar Vikas Marg,Trans-Yamuna Basin,600,13000,Storm+Sewer mix,Moderate,Medium,Medium,Backflow during heavy rain
+Anand Vihar ISBT Area,Shahdara Basin,300,5000,Stormwater,Relatively Good,Low,Low,Local clogging and debris
+Mukundpur Chowk,Najafgarh Basin,1200,24000,Combined,Poor,Very High,High,Flat terrain and siltation
+Burari Sant Nagar,Barapullah Basin,900,18000,Combined,Moderate,High,High,Encroachment on drains
+Shastri Park Metro Area,Central Delhi Basin,450,9000,Stormwater,Poor,High,Medium,Old undersized drains
+Yamuna Bank Metro Area,Trans-Yamuna Basin,600,13000,Storm+Sewer mix,Moderate,Medium,Medium,Backflow during heavy rain
+Rajouri Garden Metro Underpass,Shahdara Basin,300,5000,Stormwater,Relatively Good,Low,Low,Local clogging and debris
+Subhash Nagar Crossing,Najafgarh Basin,1200,24000,Combined,Poor,Very High,High,Flat terrain and siltation
+Peeragarhi Chowk,Barapullah Basin,900,18000,Combined,Moderate,High,High,Encroachment on drains
+Naraina Industrial Area,Central Delhi Basin,450,9000,Stormwater,Poor,High,Medium,Old undersized drains
+Dwarka Sector 7 Road,Trans-Yamuna Basin,600,13000,Storm+Sewer mix,Moderate,Medium,Medium,Backflow during heavy rain
+Dwarka Sector 21 Underpass,Shahdara Basin,300,5000,Stormwater,Relatively Good,Low,Low,Local clogging and debris
+Mehrauli-Gurgaon Road,Najafgarh Basin,1200,24000,Combined,Poor,Very High,High,Flat terrain and siltation
+Andrews Ganj Crossing,Barapullah Basin,900,18000,Combined,Moderate,High,High,Encroachment on drains
+AIIMS Flyover Area,Central Delhi Basin,450,9000,Stormwater,Poor,High,Medium,Old undersized drains
+Vasant Kunj Fortis Road,Trans-Yamuna Basin,600,13000,Storm+Sewer mix,Moderate,Medium,Medium,Backflow during heavy rain
+Narela Industrial Area,Shahdara Basin,300,5000,Stormwater,Relatively Good,Low,Low,Local clogging and debris
+Bawana Road Crossing,Najafgarh Basin,1200,24000,Combined,Poor,Very High,High,Flat terrain and siltation
+Najafgarh Drain Road,Barapullah Basin,900,18000,Combined,Moderate,High,High,Encroachment on drains
+Uttam Nagar Underpass,Central Delhi Basin,450,9000,Stormwater,Poor,High,Medium,Old undersized drains
+Janakpuri District Centre,Trans-Yamuna Basin,600,13000,Storm+Sewer mix,Moderate,Medium,Medium,Backflow during heavy rain
+Tilak Nagar Flyover Area,Shahdara Basin,300,5000,Stormwater,Relatively Good,Low,Low,Local clogging and debris
